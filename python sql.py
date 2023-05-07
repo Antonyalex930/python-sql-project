@@ -64,4 +64,4 @@ cursor.execute("INSERT INTO goods VALUES (4, 'Wooden Table', 'Brown', 100, '01-0
 # Insert data into the purchase table
 cursor.execute("INSERT INTO purchase VALUES (1, 'MyKids', 'Toy Car', 'Red', 50, 500, '01-05-23')")
 cursor.execute("INSERT INTO purchase VALUES (2, 'MyKids', 'Toy Train', 'Green', 25, 250, '01-05-23')")
-cursor.execute("INSERT INTO purchase VALUES (3, 'ORay', 'Shirt', 'Blue', 10, 200, '01-
+cursor.execute("INSERT INTO purchase VALUES (3, 'ORay', 'Shirt', 'Blue', 10, 200, '01-05-23')")
